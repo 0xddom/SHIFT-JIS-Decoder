@@ -1,0 +1,17 @@
+c:\users\kuroaku\documents\visual studio 2013\Projects\SHIFT-JIS Viewer\SHIFT-JIS Viewer\obj\Debug\SHIFT-JIS Decoder.csproj.GenerateResource.Cache
+C:\Users\KuroAku\Documents\Visual Studio 2013\Projects\SHIFT-JIS Viewer\SHIFT-JIS Viewer\bin\Debug\SHIFT-JIS Decoder.exe.config
+C:\Users\KuroAku\Documents\Visual Studio 2013\Projects\SHIFT-JIS Viewer\SHIFT-JIS Viewer\bin\Debug\SHIFT-JIS Decoder.exe
+C:\Users\KuroAku\Documents\Visual Studio 2013\Projects\SHIFT-JIS Viewer\SHIFT-JIS Viewer\bin\Debug\SHIFT-JIS Decoder.pdb
+C:\Users\KuroAku\Documents\Visual Studio 2013\Projects\SHIFT-JIS Viewer\SHIFT-JIS Viewer\obj\Debug\SHIFT_JIS_Decoder.Form1.resources
+C:\Users\KuroAku\Documents\Visual Studio 2013\Projects\SHIFT-JIS Viewer\SHIFT-JIS Viewer\obj\Debug\SHIFT_JIS_Decoder.Properties.Resources.resources
+C:\Users\KuroAku\Documents\Visual Studio 2013\Projects\SHIFT-JIS Viewer\SHIFT-JIS Viewer\obj\Debug\SHIFT-JIS Decoder.exe
+C:\Users\KuroAku\Documents\Visual Studio 2013\Projects\SHIFT-JIS Viewer\SHIFT-JIS Viewer\obj\Debug\SHIFT-JIS Decoder.pdb
+G:\daniel\SHIFT-JIS\SHIFT-JIS Decoder\bin\Debug\SHIFT-JIS Decoder.exe.config
+G:\daniel\SHIFT-JIS\SHIFT-JIS Decoder\obj\Debug\SHIFT-JIS Decoder.exe
+G:\daniel\SHIFT-JIS\SHIFT-JIS Decoder\obj\Debug\SHIFT-JIS Decoder.pdb
+G:\daniel\SHIFT-JIS\SHIFT-JIS Decoder\bin\Debug\SHIFT-JIS Decoder.exe
+G:\daniel\SHIFT-JIS\SHIFT-JIS Decoder\bin\Debug\SHIFT-JIS Decoder.pdb
+G:\daniel\SHIFT-JIS\SHIFT-JIS Decoder\obj\Debug\SHIFT-JIS Decoder.csprojResolveAssemblyReference.cache
+G:\daniel\SHIFT-JIS\SHIFT-JIS Decoder\obj\Debug\SHIFT_JIS_Decoder.Form1.resources
+G:\daniel\SHIFT-JIS\SHIFT-JIS Decoder\obj\Debug\SHIFT_JIS_Decoder.Properties.Resources.resources
+G:\daniel\SHIFT-JIS\SHIFT-JIS Decoder\obj\Debug\SHIFT-JIS Decoder.csproj.GenerateResource.Cache
